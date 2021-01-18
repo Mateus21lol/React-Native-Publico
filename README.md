@@ -11,3 +11,6 @@ https://reactnativeelements.com/
 
 React Navigation
 https://reactnavigation.org/docs/getting-started/
+
+Pexels
+https://www.pexels.com/
